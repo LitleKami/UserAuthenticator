@@ -1,0 +1,15 @@
+click
+dominate
+Flask~=3.0.3
+Flask-Bootstrap
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy~=2.0.30
+visitor
+Werkzeug~=3.0.3
+WTForms
+flask-ckeditor
